@@ -1,5 +1,5 @@
-Practice tutorial from [https://www.alexchantastic.com/password-protecting-next](https://www.alexchantastic.com/password-protecting-next){:target="_blank"}
+Practice tutorial from <a href="https://www.alexchantastic.com/password-protecting-next" target="_blank">https://www.alexchantastic.com/password-protecting-next</a>
 
-Demo here - [https://next-protected.ninetyeights.com](https://next-protected.ninetyeights.com){:target="_blank"}
+Demo here - <a href="https://next-protected.ninetyeights.com" target="_blank">https://next-protected.ninetyeights.com</a>
 
 Demo Password: 1234
