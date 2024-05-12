@@ -1,4 +1,4 @@
-export default async function Protected() {
+export default async function UnProtected() {
     return (
         <main className="flex justify-center items-center flex-col min-h-screen bg-sky-200">
             <h1 className="font-semibold text-3xl mb-10 -mt-32">🌎 Unprotected page</h1>
