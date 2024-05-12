@@ -1,4 +1,5 @@
 > Practice tutorial from [https://www.alexchantastic.com/password-protecting-next](https://www.alexchantastic.com/password-protecting-next)
+> Demo Password: 1234
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
